@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a grad student from Delhi Technological University (Formerly DCE). I love exploring new technologies and often amazed by what technology can do.</p>
+                    <p>I am a graduate from Delhi Technological University (Formerly DCE). I love exploring new technologies and often amazed by what technology can do.</p>
                     </div>
                 </div>
                 </div>
@@ -37,7 +37,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Coding</h3>
-                    <p>Trying to improve my rank on Online Judges like HackerRank and HackerEarth.</p>
+                    <p>Trying to improve my rank on Online Judges like HackerRank, HackerEarth and CodeChef.</p>
                 </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Application</h3>
-                    <p>I hav developed web applications for Delhi Police's SE branch and Youngman India.</p>
+                    <p>I have developed web applications for Delhi Police's SE branch and Youngman India.</p>
                 </div>
                 </div>
             </div>
