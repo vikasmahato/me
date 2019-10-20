@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Nucleus Software Exports Ltd., Noida <span>Jul, 2018 – Present</span></h2>
-                        <p>Here I work on Spring-Hibernate. I have worked on improving performance issues in the application. I also hold experience in working with certain routines that are considered complex in their behaviour but for an essential part of the application.</p>
+                        <p>Here I work on Spring-Hibernate. I have worked on improving performance issues in the application. I also hold experience in working with certain routines that are considered complex in their behaviour but form an essential part of the application.</p>
                       </div>
                     </div>
                   </article>
